@@ -32,4 +32,7 @@ public class TC002 {
 		
 		String yesText= driver.findElement(By.xpath("//span[.='Yes']")).getText();
 	}
+	
+	
+	
 }
