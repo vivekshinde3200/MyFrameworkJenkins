@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T23:01:11 IST" name="All Test Suite" finished-at="2024-10-04T23:01:12 IST" duration-ms="439">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T23:01:11 IST" name="/Users/shrinivaslondhe/MyFramework/src/test/java/testCases/test.java" finished-at="2024-10-04T23:01:12 IST" duration-ms="439">
+      <class name="testCases.TC001">
+        <test-method signature="test2()[pri:0, instance:testCases.TC001@7205765b]" started-at="2024-10-04T23:01:11 IST" name="test2" finished-at="2024-10-04T23:01:12 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testCases.TC001 -->
+    </test> <!-- /Users/shrinivaslondhe/MyFramework/src/test/java/testCases/test.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
